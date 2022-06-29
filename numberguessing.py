@@ -1,7 +1,7 @@
 import random
 import sys
 attempts_list = []
-#player_name = input("What is your name? ")
+
 name = input("enter the name of player: ")
 def show_score():
     if len(attempts_list) <= 0:
